@@ -24,12 +24,24 @@
     <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Animal.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Cat.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Dog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Shelter.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Animal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Cat.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Dog.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
