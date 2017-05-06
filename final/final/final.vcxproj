@@ -111,6 +111,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Animal.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Bird.cpp" />
     <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Cat.cpp" />
     <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Dog.cpp" />
     <ClCompile Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\main.cpp" />
@@ -118,6 +119,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Animal.h" />
+    <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Bird.h" />
     <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Cat.h" />
     <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Dog.h" />
     <ClInclude Include="..\..\..\..\..\..\Smilin%27 Genius\Desktop\Projects\petKeeper2\final\final\Shelter.h" />
