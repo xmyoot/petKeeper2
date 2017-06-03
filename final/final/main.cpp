@@ -8,6 +8,7 @@
 #include <vector>
 #include <memory>
 #include "Shelter.h"
+#include "Record.h"
 
 using namespace std;
 
@@ -17,8 +18,8 @@ void addAnimal(int, const shared_ptr<Shelter> shelter);
 
 int main() {
 	cout << "Welcome to the pet keeper app. Let's add some pets to inventory!" << endl;
-	auto shelter = make_shared<Shelter>();
-	begin(shelter);
+
+	
 	return 0;
 }
 
