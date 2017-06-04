@@ -1,5 +1,6 @@
 #pragma once
 #include <string>
+#include <algorithm>
 class Animal
 {
 private:
@@ -11,7 +12,10 @@ public:
 	Animal();
 	Animal(std::string, std::string, std::string, std::string);
 	~Animal();
-	std::string getName() { return name; };
+	std::string getName() { 
+		std::transform(name.begin(), name.end(), name.begin(), ::tolower);
+		return name; 
+	};
 	std::string getColor() { return color; };
 	std::string getSize() { return size; };
 	std::string getType() { return type; };
